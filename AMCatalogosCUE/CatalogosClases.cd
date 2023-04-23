@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AMCatalogosCUE.Models.ActividadAgrarium" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ActividadAgrarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ActividadSecundariaNoAgrarium" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ActividadSecundariaNoAgrarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ActividadSobreCubiertum" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\ActividadSobreCubiertum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Ad" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAQABAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.AgrupacionesGip" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAQABAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AgrupacionesGip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.AmsystemRegistroCueContext" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DIKRgCJAATgYJjABZRAFABgqtRAXAAEAQAMxgApAABw=</HashCode>
+      <FileName>Models\AmsystemRegistroCueContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Aprovechamiento" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Aprovechamiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.AsocacionesProteccionRiesgoErosion" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\AsocacionesProteccionRiesgoErosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.AsociacionRaza" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\AsociacionRaza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.AutorizadasAlgodon" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\AutorizadasAlgodon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.BuenasPracticasFertilizante" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BuenasPracticasFertilizante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.BuenasPracticasRiego" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BuenasPracticasRiego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.CapacitacionProfesional" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\CapacitacionProfesional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.CausasBaja" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\CausasBaja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.CertificacionProdEcologica" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CertificacionProdEcologica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ClasificacionExplotacion" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ClasificacionExplotacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ComunidadesRegante" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBQAAAAAAAAAAAAAAAAgEABCAAEAAAAEAAAAACAAAA=</HashCode>
+      <FileName>Models\ComunidadesRegante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Desmotadora" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Desmotadora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.DestinoCultivo" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DestinoCultivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.DestinoRestoVegetal" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Models\DestinoRestoVegetal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.DetalleActividadAgrarium" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAQIAAAAAABAAABAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DetalleActividadAgrarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.EdificacionesInstalacione" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEASAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\EdificacionesInstalacione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.EficaciaTratamiento" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\EficaciaTratamiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.EmpresaProdSemillasCertific" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\EmpresaProdSemillasCertific.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Enfermedade" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAQAAAIAAAAAAAAAEAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enfermedade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.EntidadAsesoramiento" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAQABAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\EntidadAsesoramiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.EntidadCertificacion" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\EntidadCertificacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.FinalidadCosecha" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FinalidadCosecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.HerramientasDigitale" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAkAAAAACAAAAAAAAAAAAAAFAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\HerramientasDigitale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.JustificacionActuacion" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\JustificacionActuacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MalasHierba" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAIAgAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MalasHierba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MaterialAnalizado" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MaterialAnalizado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MaterialFertilizante" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAABA=</HashCode>
+      <FileName>Models\MaterialFertilizante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MaterialVegetalReproduccion" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\MaterialVegetalReproduccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MedidaPreventivaCultural" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\MedidaPreventivaCultural.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.MetodoAplicacionFertilizante" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MetodoAplicacionFertilizante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Opfh" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Opfh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.OrigenAguaRiego" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\OrigenAguaRiego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Portainjerto" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAACAAAAAAAAABAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Portainjerto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Producto" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIBQAAAAAAAAAAAQIUAAAgAAAgAAAEQQAGEAA=</HashCode>
+      <FileName>Models\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ProductoVariedadEspecieTipo" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgAAAQAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductoVariedadEspecieTipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ProductoVegetal" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAAAQAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductoVegetal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.RegimenesCalidad" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAKEAAAAAAAAIgAAQgAAAAAIBAAAACABAAAAyAAGQ=</HashCode>
+      <FileName>Models\RegimenesCalidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.RegimenTenencium" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\RegimenTenencium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.ReguladoresCrecimientoyOtro" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAIAgAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ReguladoresCrecimientoyOtro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.Senp" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAAAAQAAQAAAAQAIAAADAAAAAAUCAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Senp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.SistemaConduccion" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SistemaConduccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.SistemaCultivo" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SistemaCultivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.SistemaExplotacion" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SistemaExplotacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.SistemaRiego" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SistemaRiego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.SubtanciasActivasAnalisi" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BkIAAQIAAAAAAEACAAAA0aIJQAAAQEEEAAIIACAICCA=</HashCode>
+      <FileName>Models\SubtanciasActivasAnalisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoaAutorizDchoOrigenVignedo" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\TipoaAutorizDchoOrigenVignedo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoAgricultor" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\TipoAgricultor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoAnalisi" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\TipoAnalisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoAyudaVignedo" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoAyudaVignedo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoCoberturaSuelo" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\TipoCoberturaSuelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoEntidadAsociacion" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\TipoEntidadAsociacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoFertilizacion" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\TipoFertilizacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoMedidaFitosanitarium" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoMedidaFitosanitarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoSuperficiePotencialUvaVino" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoSuperficiePotencialUvaVino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoSuperfPlantadaUvaVinificable" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoSuperfPlantadaUvaVinificable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.TipoTitular" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TipoTitular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMCatalogosCUE.Models.UnidadesMedidum" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\UnidadesMedidum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
